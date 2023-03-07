@@ -1,0 +1,60 @@
+.body{
+
+}
+.one{
+background-image: url("mtumba.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.nav{
+    margin-left: 5%;
+    display: flex;
+}
+.Two{
+    display: flex;
+}
+.tton{
+    margin-top: 10px;
+    
+}
+.yy{
+width: -200px;
+height: -600px;
+}
+.three{
+    display: flex;
+}
+.gent{
+    display: flex;
+}
+.dt{
+    margin: 2px;
+    padding: 5%;
+}
+.five{
+    display: flex;
+}
+.six{
+    display: flex;
+}
+.dresy{
+
+}
+.dresses{
+    display: flex;
+}
+.top{
+
+}
+.Estr{
+    background-color: lawngreen;
+    display: flex;
+}
+.trouser{
+    background-color: limegreen;
+    display: flex;
+}
+.trr{
+    display: flex;
+    background-color: lightgreen;
+}
